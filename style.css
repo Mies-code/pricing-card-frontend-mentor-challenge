@@ -48,6 +48,11 @@ body {
   color: white;
   
 }
+@media (max-width: 650px) {
+  #card {
+    width: 100%;
+    height: auto;
+  }
 #bottom-left-section{
   display: inline-block;
   width:50%;
